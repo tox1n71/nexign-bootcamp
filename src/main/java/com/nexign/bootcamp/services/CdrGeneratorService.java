@@ -28,7 +28,7 @@ public class CdrGeneratorService {
     private final Random random = new Random();
 
     /**
-     * Инициализирует тестовых абонентов и генерирует CDR-записи при запуске приложения.
+     * Инициализирует 10 тестовых абонентов и генерирует CDR-записи при запуске приложения.
      */
     @PostConstruct
     public void init() {
