@@ -149,7 +149,7 @@
 
 ---
 ## Ссылка на Postman Collection 
-нексайн пидорасы!!!
+
 ```
 https://dark-star-323577.postman.co/workspace/My-Workspace~728ce30e-7a47-4e06-8d0d-128eba1dd254/collection/27118932-1a7962a5-6849-4b25-a91b-092d331749c1?action=share&creator=27118932
 ```
